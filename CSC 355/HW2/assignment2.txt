@@ -1,0 +1,80 @@
+Table ASSIGNMENT dropped.
+
+
+Table ROUTE dropped.
+
+
+Table TRUCK dropped.
+
+
+Table TRUCK created.
+
+
+Table ROUTE created.
+
+
+Table ASSIGNMENT created.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+ROUT DRIVER DRIVERNAME                                                             DEPARTURE
+---- ------ ---------------------------------------------------------------------- ---------
+3425 123456 Jonathon Doretti                                                       06-MAY-21
+6876 123457 Jack Feldner                                                           09-APR-21
+7899 123456 Jonathon Doretti                                                       14-APR-21
+2345 987654 Sami Al-Qaudi                                                          19-JAN-01
+3425 123457 Jack Feldner                                                           16-DEC-09
+
+
+RID  FROMCITY                             TOCITY                               TR
+---- ------------------------------------ ------------------------------------ --
+3425 Chicago                              Village of Grosse Pointe Shores city 30
+2345 New York                             Los Angelese                         39
+6876 Oak Lawn                             New Orleans                          70
+7899 New Orleans                          Salt Lake City                       70
+
+
+TI COMPANY               TRUCKYEAR
+-- -------------------- ----------
+30 Fake Company               1970
+39 Not Fake Company           2001
+70 Amazon Shipping            2018
+
+
+Commit complete.
+
